@@ -1,0 +1,5 @@
+********************************************
+comando basico de linux
+********************************************
+
+ls -> listado de archivos y directorios

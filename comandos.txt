@@ -4,3 +4,5 @@ comando basico de linux
 
 ls -> listado de archivos y directorios
 cd -> comando para ingresar a la ruta indicada ejmplo: cd /dir1/dir2
+pwd -> comando para mostrar el nombre de su directorio actual 
+cp ->  Es la unidad de linea de comandos que copia archivos 

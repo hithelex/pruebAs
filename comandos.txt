@@ -8,3 +8,6 @@ pwd -> comando para mostrar el nombre de su directorio actual
 cp ->  Es la unidad de linea de comandos que copia archivos 
 mv -> sirve para mover el archivo entre directorios
 grep -> encontrar palabras o expresiones en archivo
+cat -> sirve para ver el contenido  de un archivo 
+rmdir -> sirve para solo borrar directorio que no tengan contenido 
+top -> sirve para ver todos los procesos activos que se esta ejecutando el sistema

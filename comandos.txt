@@ -11,3 +11,4 @@ grep -> encontrar palabras o expresiones en archivo
 cat -> sirve para ver el contenido  de un archivo 
 rmdir -> sirve para solo borrar directorio que no tengan contenido 
 top -> sirve para ver todos los procesos activos que se esta ejecutando el sistema
+yum->manejador de paquetes

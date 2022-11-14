@@ -14,3 +14,4 @@ top -> sirve para ver todos los procesos activos que se esta ejecutando el siste
 yum->manejador de paquetes
 print ->imprimir un mensaje en consola
 ls wc -l -> sirve para mostrar cantidad de resultados en busqueda
+all ->  mustra el historial de cambio de todas las ramas 

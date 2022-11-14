@@ -15,3 +15,5 @@ yum->manejador de paquetes
 print ->imprimir un mensaje en consola
 ls wc -l -> sirve para mostrar cantidad de resultados en busqueda
 all ->  mustra el historial de cambio de todas las ramas 
+history = -> muestra el historial de comandos ejecutado 
+history -c -> limpia el historial de comandos

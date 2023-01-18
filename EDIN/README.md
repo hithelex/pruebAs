@@ -1,6 +1,4 @@
-********************************************
-comando basico de linux
-********************************************
+:construction: Comando basicos de linux :construction:
 
 ls -> listado de archivos y directorios
 cd -> comando para ingresar a la ruta indicada ejmplo: cd /dir1/dir2

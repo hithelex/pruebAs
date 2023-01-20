@@ -1,0 +1,46 @@
+body{
+   height: 50%;
+   width: auto;
+   background-color: rgba(9, 45, 207, 0.589);
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav{
+    width: 500px;
+    background-color: rgba(229, 255, 0, 0.623);
+    border-radius: 10px;
+    list-style: none;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+nav ul li{
+    text-align: center;
+    margin: auto;
+}
+
+/* form {
+    width:  150px;
+    background-color: rgb(233, 209, 209);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+.formulario{
+    width: 300px;
+    height: 200px;
+    background-color: rgba(104, 201, 101, 0.301);
+    border-radius: 10px;
+    display: flex;
+    margin-top: 5%;
+}
+
+div p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
